@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.iamarket.lista_compras5",
+    "sha256_cert_fingerprints": [
+      "ED:44:33:DA:6B:38:B0:6E:24:84:BC:39:F4:A7:A3:04:A0:79:D3:A0:B2:6C:F3:DA:3B:49:38:92:AF:04:93:05"
+    ]
+  }
+}]
